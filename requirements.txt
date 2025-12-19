@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+# Optional for LLMs (install if you plan to enable LLM backends):
+# openai
+# ollama
+# langchain
+# langchain-ollama
+
